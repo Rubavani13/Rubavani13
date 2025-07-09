@@ -15,7 +15,7 @@
 ### ✨ About Me
 
 🌷 I'm currently diving into the world of **Business Analytics**  
-🎓 MBA student who loves tech, learning, and solving problems  
+🎓 MBA student who loves learning, and solving problems  
 🦋 I believe in dreaming big and building even bigger 💡
 
 **💬 Let's Chat About:**
@@ -77,7 +77,6 @@
 
 - 💕 I love journaling, colors, and cute stationery!
 - 🍫 I believe chocolate solves most problems.
-- 📚 I'm either coding or reading personal growth books.
 - 🎨 A little obsessed with aesthetic desk setups ✨
 
 ---
