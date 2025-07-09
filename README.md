@@ -2,7 +2,7 @@
 <h1 align="center" style="color:#8e44ad;">Hey there, I'm <span style="color:#52F7EF;">RUBA VANI P</span> 👩🏻‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=A86DF5&center=true&vCenter=true&width=550&lines=Business+Analytics+Learner;Python+Developer;Future+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=A86DF5&center=true&vCenter=true&width=550&lines=Business+Analytics+Learner;Python+Developer;HR+Analyst" alt="Typing SVG" />
 </p>
 
 <!-- Profile Image -->
