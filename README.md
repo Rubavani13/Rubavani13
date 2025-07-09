@@ -1,8 +1,12 @@
-![WhatsApp Image 2025-07-09 at 23 13 52_fd500fbc](https://github.com/user-attachments/assets/9ff30a22-01a0-48ad-ab48-b0e22e1c59da)<!-- PROFILE HEADING -->
+
 <h1 align="center">Hi there, I'm RUBA VANI P 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Python+Lover;Currently+Learning+Business+Analytics" alt="Typing SVG" />
+</p>
+<!-- PROFILE IMAGE -->
+<p align="center">
+  <img src="![WhatsApp Image 2025-07-09 at 23 13 52_fd500fbc](https://github.com/user-attachments/assets/0e0fcf45-7ea5-4dd7-99ae-119b2ea8cad1)" alt="coding" width="400" />
 </p>
 ---
 
