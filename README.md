@@ -6,7 +6,7 @@
 </p>
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e0fcf45-7ea5-4dd7-99ae-119b2ea8cad1" alt="coding" width="400" />
+  <img src="https://github.com/user-attachments/assets/0e0fcf45-7ea5-4dd7-99ae-119b2ea8cad1" alt="coding" width="200" />
 </p>
 ---
 
