@@ -8,7 +8,7 @@
 </div>
 
 <!-- Coding Illustration -->
-<img align="right" alt="coding" height="500" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jamasoftware.com%2Fsolutions%2Fbusiness-analysts%2F&psig=AOvVaw14MlHCILiCQMzJuFho9ySm&ust=1752167984675000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDW5e6ksI4DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" height="500" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
 
 <!-- About -->
 - 🌱 I’m currently learning **Business Analytics**
