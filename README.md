@@ -1,96 +1,68 @@
-<!-- Header Typing Animation -->
-<h1 align="center">RUBA VANI P 👩🏻‍💻</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ruba+Vani+P;MBA+Student;Currently+Learning;" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Coding Illustration -->
-<img align="right" alt="coding" height="500" width="400" src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg">
-
-<!-- About -->
-- 🌱 I’m currently learning **Business Analytics**
-
-### 💬 Ask me about
-
-- **Programming Languages:** Python, Flask, Django  
-- **Databases:** SQLite3, MySQL, PostgreSQL  
-- **Machine Learning:** Numpy, Pandas  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** Docker
-
-### 📫 How to reach me
-- **Email:** rubavanipitchaimari@gmail.com
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ruba-vani-p-04b403349/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and 🛠️ Tools:</h3>
+<!-- PROFILE HEADING -->
+<h1 align="center">Hi there, I'm RUBA VANI P 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Python+Lover;Currently+Learning+Business+Analytics" alt="Typing SVG" />
+</p>
 
-  <!-- Programming & Libraries -->
-  <kbd>
-    <kbd>Programming & Libraries</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy"/>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
-    <img width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib"/>
-  </kbd>
-
-  <!-- Backend -->
-  <kbd>
-    <kbd>Backend</kbd><br><br>
-    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="Flask"/>
-  </kbd>
-
-  <!-- Database -->
-  <kbd>
-    <kbd>Database</kbd><br><br>
-    <img width="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server"/>
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-  </kbd>
-
-  <!-- Tools -->
-  <kbd>
-    <kbd>System, Networking & Deployment</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker"/>
-  </kbd>
-
-  <!-- Shell -->
-  <kbd>
-    <kbd>Terminal Scripts</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="Bash"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="PowerShell"/>
-  </kbd>
-
-  <!-- Editors -->
-  <kbd>
-    <kbd>Text Editor / IDE / Notebook</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
-  </kbd>
-
+<!-- PROFILE IMAGE -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg" alt="coding" width="400" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubavani13&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 👩🏻‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rubavani13&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+- 🌱 Currently learning **Business Analytics**  
+- 🎓 MBA Student with passion in **Data, Tech & Strategy**
+- 💬 Ask me about:
+  - Programming: **Python, Flask, Django**
+  - Databases: **SQLite3, MySQL, PostgreSQL**
+  - Machine Learning: **Numpy, Pandas**
+  - Version Control: **Git, GitHub**
+  - Tools: **Docker**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubavani13&show_icons=true&locale=en" alt="GitHub Streak" /></p>
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:rubavanipitchaimari@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ruba-vani-p-04b403349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" alt="Flask" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="30" alt="Bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="30" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="30" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VSCode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rubavani13&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubavani13&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubavani13&theme=tokyonight" />
+</div>
