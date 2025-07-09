@@ -1,4 +1,4 @@
-<!-- PROFILE HEADING -->
+![WhatsApp Image 2025-07-09 at 23 13 52_fd500fbc](https://github.com/user-attachments/assets/9ff30a22-01a0-48ad-ab48-b0e22e1c59da)<!-- PROFILE HEADING -->
 <h1 align="center">Hi there, I'm RUBA VANI P 👋</h1>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <!-- PROFILE IMAGE -->
-<p align="center">
+<p align="right">
   <img src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg" alt="coding" width="400" />
 </p>
 
