@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center"> <span style="color:#FF69B4;">RUBA VANI P</span> </h1>
+<h1 align="center"> <span style="color:#FF69B4;">RUBA VANI P</span>🌸 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&pause=1000&color=F478D9&center=true&vCenter=true&width=600&lines=MBA+Student+🌸+Data+Dreamer;Business+Analytics+Learner+📊;Pythonista+🐍+%7C+Always+Curious" alt="Typing SVG" />
