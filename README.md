@@ -4,12 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Python+Lover;Currently+Learning+Business+Analytics" alt="Typing SVG" />
 </p>
-
-<!-- PROFILE IMAGE -->
-<p align="right">
-  <img src="https://i.pinimg.com/originals/11/5e/cd/115ecd960631ba4b2f9fe784ca98b42d.jpg" alt="coding" width="400" />
-</p>
-
 ---
 
 ### 👩🏻‍💻 About Me
