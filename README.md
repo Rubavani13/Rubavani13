@@ -34,7 +34,7 @@
 `Scikit-learn` | `Statsmodels` | `Jupyter Notebooks`
 
 #### 🧰 Developer Tools
-`Git` | `Docker` | `VS Code` | `Postman` | `Linux Terminal`
+`Git` | `Docker` | `VS Code` | `Postman` 
 
 ---
 
