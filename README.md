@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <span style="color:#0dcaf0;">Ruba Vani P</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0DCAF0&center=true&vCenter=true&width=600&lines=MBA+Student+%7C+Business+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0DCAF0&center=true&vCenter=true&width=600&lines= MBA+Student+%7C+Business+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Curious" alt="Typing SVG" />
 </p>
 
 <p align="center">
